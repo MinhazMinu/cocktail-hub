@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const Cocktails = () => {
-    return (
-        <div>
-            Cocktails
-        </div>
-    )
-}
+const Cocktails = props => {
+  return <div>Cocktails</div>;
+};
 
-export default Cocktails
+export default Cocktails;
